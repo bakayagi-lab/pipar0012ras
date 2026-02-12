@@ -60,5 +60,13 @@
 &kp DELETE   &kp END          &kp LC(V)
             >;
         };
+
+        layer_3 {
+            bindings = <
+&kp DEL  &trans  &trans
+&trans   &trans  &trans
+&trans   &trans  &trans
+            >;
+        };
     };
 };
