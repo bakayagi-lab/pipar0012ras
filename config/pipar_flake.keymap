@@ -63,7 +63,7 @@
 
         layer_3 {
             bindings = <
-&kp DEL  &trans  &trans
+&kp DEL  &kp A   &trans
 &trans   &trans  &trans
 &trans   &trans  &trans
             >;
