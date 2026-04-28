@@ -63,9 +63,9 @@
 
         layer_3 {
             bindings = <
-&kp DEL  &kp A   &trans
-&trans   &trans  &trans
-&trans   &trans  &trans
+&kp F1  &kp F2  &kp F3
+&kp F4  &trans  &trans
+&trans  &trans  &trans
             >;
         };
     };
